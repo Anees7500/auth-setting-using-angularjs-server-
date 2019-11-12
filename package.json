@@ -1,0 +1,20 @@
+{
+  "name": "angulajs-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.23",
+    "angular": "^1.7.8",
+    "angular-auth0": "^3.0.4",
+    "auth0-js": "^9.11.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
+    "http-server": "^0.9.0"
+  }
+}
